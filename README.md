@@ -30,7 +30,7 @@ Carefully plan the number of experiments and choose a suitable statistical appro
 - Conclusion (is the hypothesis proven?) 
 
 ## Guide to solutions :
-### Guide to the first assignmnent of Sphinx documentation :please use this link to get access to my repository where i provided the sphinx documentation .
+### 1- Guide to the first assignmnent of Sphinx documentation :please use this link to get access to my repository where i provided the sphinx documentation .
 
 [link to my repository with the sphinx documentation](https://github.com/benkredda/assignment_2) .
 
@@ -39,9 +39,17 @@ Once you click on the link there will appear my second assignment repository don
 #### For the documentation please click here :
 https://benkredda.github.io/assignment_2/ .
 
-### Guide to the second assignment of jupyter notebook : please use this link to get access to my repository where i provided the jupyter notebook .
+### 2- Guide to the second assignment of jupyter notebook : please use this link to get access to my repository where i provided the jupyter notebook .
 
-[link to my repository with the sphinx documentation](https://github.com/benkredda/assignment_2) .
+[link to my repository with the jupyter notebook](https://github.com/benkredda/assignment_2) .
+once you click on the link , my repository of the second assignment of RT1 will appear with a file named jupyter-Node-a.ipynb   leading to my jupyter notebook.
+
+### 3- Guide to the third assignment of the statistical report : please use this link to get access to my repository where i provided the statistical report .
+
+the statistical report is in a pdf named statistical report .
+
+[link to my repository with the jupyter notebook](https://github.com/benkredda/assignment_2) .
 
 
-### Guide to the third assignment of the statistical report : please use this link to get access to my repository where i provided the statistical report .
+
+
