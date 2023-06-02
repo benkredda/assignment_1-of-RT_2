@@ -30,8 +30,18 @@ Carefully plan the number of experiments and choose a suitable statistical appro
 - Conclusion (is the hypothesis proven?) 
 
 ## Guide to solutions :
-- Guide to the first assignmnent of Sphinx documentation :please use this link to get access to my repository where i provided the sphinx documentation , once you click on the link there will appear my second assignment repository done in RT1 , you will need then to move to the Sphinx branch (and not the main branch, you can select the branch from the right top of the repository where main is chosen by default). in the sphinx i provided a folder called docs with the documentation of the three nodes. and in the Readme file of that repository i provided the the link to the html page .        
- 
-[the link](https://github.com/benkredda/assignment_2) 
+### Guide to the first assignmnent of Sphinx documentation :please use this link to get access to my repository where i provided the sphinx documentation .
+
+[link to my repository with the sphinx documentation](https://github.com/benkredda/assignment_2) .
+
+Once you click on the link there will appear my second assignment repository done in RT1 , you will need then to move to the Sphinx branch (and not the main branch, you can select the branch from the right top of the repository where main is chosen by default). in the sphinx i provided a folder called docs with the documentation of the three nodes. and in the Readme file of that repository i provided the link to the html page.Again i provided the link to my documentation here      
+
+#### For the documentation please click here :
+https://benkredda.github.io/assignment_2/ .
+
+### Guide to the second assignment of jupyter notebook : please use this link to get access to my repository where i provided the jupyter notebook .
+
+[link to my repository with the sphinx documentation](https://github.com/benkredda/assignment_2) .
 
 
+### Guide to the third assignment of the statistical report : please use this link to get access to my repository where i provided the statistical report .
