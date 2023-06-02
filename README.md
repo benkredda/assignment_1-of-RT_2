@@ -32,6 +32,6 @@ Carefully plan the number of experiments and choose a suitable statistical appro
 ## Guide to solutions :
 - Guide to the first assignmnent of Sphinx documentation :please use this link to get access to my repository where i provided the sphinx documentation , once you click on the link there will appear my second assignment repository done in RT1 , you will need then to move to the Sphinx branch (and not the main branch, you can select the branch from the right top of the repository where main is chosen by default). in the sphinx i provided a folder called docs with the documentation of the three nodes. and in the Readme file of that repository i provided the the link to the html page .        
  
-[the link]([URL](https://github.com/benkredda/assignment_2)) 
+[the link](https://github.com/benkredda/assignment_2) 
 
 
