@@ -48,7 +48,7 @@ once you click on the link , my repository of the second assignment of RT1 will 
 
 the statistical report is in a pdf named statistical report .
 
-[link to my repository with the jupyter notebook](https://github.com/benkredda/assignment_2) .
+[link to my repository with the statistical report pdf](https://github.com/benkredda/rt1-project) .
 
 
 
